@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-image: url("images/background.png");
+    background-repeat: repeat;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+}
+
+a, p, h1 {
+    color: white;
+}
+
+.menu {
+    border-width: 0 10px 0 0;
+    display: inline-block;
+    flex-basis: 19%;
+    margin: 5rem 0 0 0;
+}
+
+.iframe {
+    border-width: 0 0 0 5px;
+    min-height: 100vh;
+    border-width: 0 0 0 10px;
+    border-style: solid;
+    width: 100%;
+    border-image: linear-gradient(0.25turn, #a8a8a8,#D3D3D3, #000) 1 100%;
+}
+
+.title {
+    text-align: center;
+    margin: 5rem 0 0 0;
+    font-size: 5rem;
+}
+
+.link-tree {
+    margin: 5rem 0 0 2rem;
+}
+
+.about {
+    margin: 2rem 0 0 2rem;
+}
+
+.hero {
+    margin: 5rem 0;
+}
+
+.hero img {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
