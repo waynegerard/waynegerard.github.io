@@ -17,7 +17,7 @@ a, p, h1 {
     border-width: 0 10px 0 0;
     display: inline-block;
     flex-basis: 19%;
-    margin: 5rem 0 0 0;
+    margin: 5vw 0 0 0;
 }
 
 .iframe {
@@ -32,11 +32,11 @@ a, p, h1 {
 .title {
     text-align: center;
     margin: 5rem 0 0 0;
-    font-size: 5rem;
+    font-size: 4em;
 }
 
 .link-tree {
-    margin: 5rem 0 0 2rem;
+    margin: 15vh 0 0 1vw;
 }
 
 .about {
